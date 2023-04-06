@@ -1,0 +1,102 @@
+Processing ('basic', 'random_split', 'label_basic', 'Naive_Bayes')
+	Caching: ('basic',)
+	Caching: ('basic', 'random_split')
+	Caching: ('basic', 'random_split', 'label_basic')
+	Caching: ('basic', 'random_split', 'label_basic', 'Naive_Bayes')
+Processing ('basic', 'random_split', 'label_basic', 'KNN_k=5')
+  > Using 3 steps from cache
+	Caching: ('basic', 'random_split', 'label_basic', 'KNN_k=5')
+Processing ('basic', 'random_split', 'label_basic', 'RF_n=100')
+  > Using 3 steps from cache
+	Caching: ('basic', 'random_split', 'label_basic', 'RF_n=100')
+Processing ('basic', 'random_split', 'targetEncode_dateScale.01_basic', 'Naive_Bayes')
+  > Using 2 steps from cache
+	Caching: ('basic', 'random_split', 'targetEncode_dateScale.01_basic')
+	Caching: ('basic', 'random_split', 'targetEncode_dateScale.01_basic', 'Naive_Bayes')
+Processing ('basic', 'random_split', 'targetEncode_dateScale.01_basic', 'KNN_k=5')
+  > Using 3 steps from cache
+	Caching: ('basic', 'random_split', 'targetEncode_dateScale.01_basic', 'KNN_k=5')
+Processing ('basic', 'random_split', 'targetEncode_dateScale.01_basic', 'RF_n=100')
+  > Using 3 steps from cache
+	Caching: ('basic', 'random_split', 'targetEncode_dateScale.01_basic', 'RF_n=100')
+Processing ('basic', 'random_split', 'targetEncode_dateScale.05_basic', 'Naive_Bayes')
+  > Using 2 steps from cache
+	Caching: ('basic', 'random_split', 'targetEncode_dateScale.05_basic')
+	Caching: ('basic', 'random_split', 'targetEncode_dateScale.05_basic', 'Naive_Bayes')
+Processing ('basic', 'random_split', 'targetEncode_dateScale.05_basic', 'KNN_k=5')
+  > Using 3 steps from cache
+	Caching: ('basic', 'random_split', 'targetEncode_dateScale.05_basic', 'KNN_k=5')
+Processing ('basic', 'random_split', 'targetEncode_dateScale.05_basic', 'RF_n=100')
+  > Using 3 steps from cache
+	Caching: ('basic', 'random_split', 'targetEncode_dateScale.05_basic', 'RF_n=100')
+Processing ('basic', 'random_split', 'targetEncode_dateScale.2_basic', 'Naive_Bayes')
+  > Using 2 steps from cache
+	Caching: ('basic', 'random_split', 'targetEncode_dateScale.2_basic')
+	Caching: ('basic', 'random_split', 'targetEncode_dateScale.2_basic', 'Naive_Bayes')
+Processing ('basic', 'random_split', 'targetEncode_dateScale.2_basic', 'KNN_k=5')
+  > Using 3 steps from cache
+	Caching: ('basic', 'random_split', 'targetEncode_dateScale.2_basic', 'KNN_k=5')
+Processing ('basic', 'random_split', 'targetEncode_dateScale.2_basic', 'RF_n=100')
+  > Using 3 steps from cache
+	Caching: ('basic', 'random_split', 'targetEncode_dateScale.2_basic', 'RF_n=100')
+Processing ('basic', 'random_split', 'targetEncode_dateScale1_basic', 'Naive_Bayes')
+  > Using 2 steps from cache
+	Caching: ('basic', 'random_split', 'targetEncode_dateScale1_basic')
+	Caching: ('basic', 'random_split', 'targetEncode_dateScale1_basic', 'Naive_Bayes')
+Processing ('basic', 'random_split', 'targetEncode_dateScale1_basic', 'KNN_k=5')
+  > Using 3 steps from cache
+	Caching: ('basic', 'random_split', 'targetEncode_dateScale1_basic', 'KNN_k=5')
+Processing ('basic', 'random_split', 'targetEncode_dateScale1_basic', 'RF_n=100')
+  > Using 3 steps from cache
+	Caching: ('basic', 'random_split', 'targetEncode_dateScale1_basic', 'RF_n=100')
+Processing ('basic', 'sequential_split', 'label_basic', 'Naive_Bayes')
+  > Using 1 steps from cache
+	Caching: ('basic', 'sequential_split')
+	Caching: ('basic', 'sequential_split', 'label_basic')
+	Caching: ('basic', 'sequential_split', 'label_basic', 'Naive_Bayes')
+Processing ('basic', 'sequential_split', 'label_basic', 'KNN_k=5')
+  > Using 3 steps from cache
+	Caching: ('basic', 'sequential_split', 'label_basic', 'KNN_k=5')
+Processing ('basic', 'sequential_split', 'label_basic', 'RF_n=100')
+  > Using 3 steps from cache
+	Caching: ('basic', 'sequential_split', 'label_basic', 'RF_n=100')
+Processing ('basic', 'sequential_split', 'targetEncode_dateScale.01_basic', 'Naive_Bayes')
+  > Using 2 steps from cache
+	Caching: ('basic', 'sequential_split', 'targetEncode_dateScale.01_basic')
+	Caching: ('basic', 'sequential_split', 'targetEncode_dateScale.01_basic', 'Naive_Bayes')
+Processing ('basic', 'sequential_split', 'targetEncode_dateScale.01_basic', 'KNN_k=5')
+  > Using 3 steps from cache
+	Caching: ('basic', 'sequential_split', 'targetEncode_dateScale.01_basic', 'KNN_k=5')
+Processing ('basic', 'sequential_split', 'targetEncode_dateScale.01_basic', 'RF_n=100')
+  > Using 3 steps from cache
+	Caching: ('basic', 'sequential_split', 'targetEncode_dateScale.01_basic', 'RF_n=100')
+Processing ('basic', 'sequential_split', 'targetEncode_dateScale.05_basic', 'Naive_Bayes')
+  > Using 2 steps from cache
+	Caching: ('basic', 'sequential_split', 'targetEncode_dateScale.05_basic')
+	Caching: ('basic', 'sequential_split', 'targetEncode_dateScale.05_basic', 'Naive_Bayes')
+Processing ('basic', 'sequential_split', 'targetEncode_dateScale.05_basic', 'KNN_k=5')
+  > Using 3 steps from cache
+	Caching: ('basic', 'sequential_split', 'targetEncode_dateScale.05_basic', 'KNN_k=5')
+Processing ('basic', 'sequential_split', 'targetEncode_dateScale.05_basic', 'RF_n=100')
+  > Using 3 steps from cache
+	Caching: ('basic', 'sequential_split', 'targetEncode_dateScale.05_basic', 'RF_n=100')
+Processing ('basic', 'sequential_split', 'targetEncode_dateScale.2_basic', 'Naive_Bayes')
+  > Using 2 steps from cache
+	Caching: ('basic', 'sequential_split', 'targetEncode_dateScale.2_basic')
+	Caching: ('basic', 'sequential_split', 'targetEncode_dateScale.2_basic', 'Naive_Bayes')
+Processing ('basic', 'sequential_split', 'targetEncode_dateScale.2_basic', 'KNN_k=5')
+  > Using 3 steps from cache
+	Caching: ('basic', 'sequential_split', 'targetEncode_dateScale.2_basic', 'KNN_k=5')
+Processing ('basic', 'sequential_split', 'targetEncode_dateScale.2_basic', 'RF_n=100')
+  > Using 3 steps from cache
+	Caching: ('basic', 'sequential_split', 'targetEncode_dateScale.2_basic', 'RF_n=100')
+Processing ('basic', 'sequential_split', 'targetEncode_dateScale1_basic', 'Naive_Bayes')
+  > Using 2 steps from cache
+	Caching: ('basic', 'sequential_split', 'targetEncode_dateScale1_basic')
+	Caching: ('basic', 'sequential_split', 'targetEncode_dateScale1_basic', 'Naive_Bayes')
+Processing ('basic', 'sequential_split', 'targetEncode_dateScale1_basic', 'KNN_k=5')
+  > Using 3 steps from cache
+	Caching: ('basic', 'sequential_split', 'targetEncode_dateScale1_basic', 'KNN_k=5')
+Processing ('basic', 'sequential_split', 'targetEncode_dateScale1_basic', 'RF_n=100')
+  > Using 3 steps from cache
+	Caching: ('basic', 'sequential_split', 'targetEncode_dateScale1_basic', 'RF_n=100')
